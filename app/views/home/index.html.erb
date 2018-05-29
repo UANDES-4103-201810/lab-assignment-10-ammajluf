@@ -1,0 +1,15 @@
+<h1>Home</h1>
+<p>
+
+<div style="position: absolute; top: 50px; right: 50px; width: 100px; text-align: right">
+  <% if user_signed_in? %>
+
+
+
+
+  <% else %>
+    <li><%= link_to "Sign Up", new_user_registration_path %></li>
+    <li><%= link_to "Login", new_user_session_path %></li>
+  <% end %>
+</div>
+</p>
