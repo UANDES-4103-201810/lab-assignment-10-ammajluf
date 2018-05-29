@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e76f2d7-f5da-42c9-8f1d-3ea4d49c125c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/callbacks_controller.rb" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change beforePath="$PROJECT_DIR$/config/initializers/devise.rb" afterPath="$PROJECT_DIR$/config/initializers/devise.rb" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/callbacks_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/callbacks_controller.rb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -356,12 +350,12 @@
       <option name="presentableId" value="Default" />
       <updated>1527613450414</updated>
       <workItem from="1527613452134" duration="1951000" />
-      <workItem from="1527615496990" duration="5128000" />
+      <workItem from="1527615496990" duration="5431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7079000" />
+    <option name="totallyTimeSpent" value="7382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
